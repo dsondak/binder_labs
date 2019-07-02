@@ -1,3 +1,3 @@
 # DSWCC Labs
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dsondak/dswcc_fall_2018/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dsondak/dswcc_binder_labs.git/master?filepath=Summer%2F)
